@@ -1,5 +1,11 @@
 ## Requirements
 
+Updates:
+2016-05-13: Red Rotary Phone code from IoTBLR updated with a couple of enhancements to include:
+* Auto-start
+* Time-trigger
+* Beacon-trigger (still testing but worth giving a shot)
+
 Raspberry Pi
 * SD card with Raspbian operating system*
 * Wifi dongle
