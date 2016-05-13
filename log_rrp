@@ -1,0 +1,40 @@
+initialize called
+Found 10 documents with gameId Phone_1
+Clue number : 0 / 10
+Found Clue: 1
+{ _id: '3ad511327968039f7e0b514b21fddaa0',
+  _rev: '5-9a64a61391dbca0298f03e8d7e92a18e',
+  gameId: 'Phone_1',
+  stepId: '1',
+  triggerMechanism: 'time',
+  triggerId: 1,
+  status: 'false',
+  message: 'Welcome to Sherlock Holmes & the Internet of Things. Are you ready to play a little game? I have a case for you, Mr. Holmes. You have 90 minutes to re-create a murder scene, populate it with objects and clues and then craft a crime story that unlocks the mystery. You will work as a team and you will work as an individual. Now look around to find a body holding a bag. Each team take a bag and Watsons watch out as I\'ll communicate directly to you.  I will be watching your every move. The clock is ticking!  Yours Truly the KILLER.' }
+time : 1
+Completed for /opt/RRP/audio_files/12.wav
+Completed for /opt/RRP/audio_files/11.wav
+Completed for /opt/RRP/audio_files/1.wav
+Completed for /opt/RRP/audio_files/1.wav
+Completed for /opt/RRP/audio_files/4.wav
+Completed for /opt/RRP/audio_files/3.wav
+Completed for /opt/RRP/audio_files/5.wav
+Completed for /opt/RRP/audio_files/6.wav
+Completed for /opt/RRP/audio_files/0.wav
+Completed for /opt/RRP/audio_files/7.wav
+Time Play file
+Ring!!!!
+Clue play!!!!
+/opt/RRP/audio_files/0.wav
+Clue number : 1 / 10
+Found Clue: 2
+Found Clue: 2
+{ _id: 'e605ad8e155ca270b341893a5665df8a',
+  _rev: '5-92da72d6821583a771b1017b8b3fdf44',
+  gameId: 'Phone_1',
+  stepId: '2',
+  triggerMechanism: 'userDial',
+  triggerId: '1',
+  status: 'false',
+  message: 'Now you’re going to work on the other crime scenes. Reach into the satchel and pull out the small envelopes. Each one contains one object involed in the crime. Take one or two. Visit the other crime scenes here and there and place these objects around the bodies with care. Think like a killer. Don’t put all your objects around one body. You are doing this alone, so feel free to explore on your own.' }
+USerdialled
+Channel 18 value is now false
